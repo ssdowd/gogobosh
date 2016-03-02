@@ -5,8 +5,8 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/cloudfoundry-community/gogobosh/models"
-	"github.com/cloudfoundry-community/gogobosh/net"
+	"github.com/ssdowd/gogobosh/models"
+	"github.com/ssdowd/gogobosh/net"
 )
 
 // GetReleases returns the list of releases, and versions available

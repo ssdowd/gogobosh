@@ -7,8 +7,8 @@ import (
 
 	goyaml "gopkg.in/yaml.v2"
 
-	"github.com/cloudfoundry-community/gogobosh/models"
-	"github.com/cloudfoundry-community/gogobosh/net"
+	"github.com/ssdowd/gogobosh/models"
+	"github.com/ssdowd/gogobosh/net"
 )
 
 // GetDeployments returns a list of deployments, and the releases/stemcells being used
