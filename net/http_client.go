@@ -4,7 +4,7 @@ import (
 	"crypto/tls"
 	"errors"
 	"fmt"
-	"github.com/cloudfoundry-community/gogobosh/utils"
+	"github.com/ssdowd/gogobosh/utils"
 	"net/http"
 	"net/http/httputil"
 	"regexp"

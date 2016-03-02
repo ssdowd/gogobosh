@@ -1,8 +1,8 @@
 package api
 
 import (
-	"github.com/cloudfoundry-community/gogobosh/models"
-	"github.com/cloudfoundry-community/gogobosh/net"
+	"github.com/ssdowd/gogobosh/models"
+	"github.com/ssdowd/gogobosh/net"
 )
 
 func (repo BoshDirectorRepository) GetInfo() (directorInfo models.DirectorInfo, apiResponse net.ApiResponse) {

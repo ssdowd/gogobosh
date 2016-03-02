@@ -1,7 +1,7 @@
 package models_test
 
 import (
-	"github.com/cloudfoundry-community/gogobosh/models"
+	"github.com/ssdowd/gogobosh/models"
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"

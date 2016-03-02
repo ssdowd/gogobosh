@@ -4,7 +4,7 @@ import (
 	"encoding/base64"
 	"encoding/json"
 	"fmt"
-	"github.com/cloudfoundry-community/gogobosh/constants"
+	"github.com/ssdowd/gogobosh/constants"
 	"io"
 	"io/ioutil"
 	"net/http"
